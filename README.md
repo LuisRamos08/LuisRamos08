@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Spring Boot REST-API**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular** and **React**
 
 - 💬 Ask me about **Java Spring Boot**
 
